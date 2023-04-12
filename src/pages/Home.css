@@ -1,0 +1,18 @@
+.PathUL{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 300px 0px;
+}
+
+.hiringBtn{
+    background-color: rgb(29, 28, 28);
+    color: rgb(254, 254, 254);
+    font-weight: 600;
+    height: 100px;
+    width: 300px;
+}
+
+.hiringBtn:hover{
+    background-color: rgb(40, 139, 209);
+    color: black;
+}
